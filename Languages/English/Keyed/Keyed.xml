@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- ===================================	general use		================================= -->
+
+	<ZDG_ModName>More Dangerous Game</ZDG_ModName>
+	
+	<ZDG_Danger0>Vanilla</ZDG_Danger0>
+	<ZDG_Danger1>Dangerous</ZDG_Danger1>
+	<ZDG_Danger2>More Dangerous</ZDG_Danger2>
+	<ZDG_Danger3>Most Dangerous</ZDG_Danger3>
+	<ZDG_Danger4>Extreme</ZDG_Danger4>
+	
+	<!-- Prey -->
+	<ZDG_ValidPrey>Allowable prey</ZDG_ValidPrey>
+	
+	<ZDG_ValidPrey0>Vanilla</ZDG_ValidPrey0>
+	<ZDG_ValidPreyDesc0>Vanilla</ZDG_ValidPreyDesc0>
+	
+	<ZDG_ValidPrey1>Herbivores only</ZDG_ValidPrey1>
+	<ZDG_ValidPreyDesc1>Predators are not prey.</ZDG_ValidPreyDesc1>
+	
+	<ZDG_ValidPrey2>Humans</ZDG_ValidPrey2>
+	<ZDG_ValidPreyDesc2>Wild predators only hunt humans. Tame predators don't hunt other predators.</ZDG_ValidPreyDesc2>
+	
+	<ZDG_ValidPrey3>Colonists</ZDG_ValidPrey3>
+	<ZDG_ValidPreyDesc3>All predators, including pets, will only hunt colonists.</ZDG_ValidPreyDesc3>
+	
+	<ZDG_ValidPrey4>Extreme</ZDG_ValidPrey4>
+	<ZDG_ValidPreyDesc4>Extreme</ZDG_ValidPreyDesc4>
+	
+	<!-- Predators -->
+	<ZDG_PredType>Predators</ZDG_PredType>
+	
+	<ZDG_PredType0>Vanilla</ZDG_PredType0>
+	<ZDG_PredTypeDesc0>Predators are predators</ZDG_PredTypeDesc0>
+	
+	<ZDG_PredType1>Meat eaters</ZDG_PredType1>
+	<ZDG_PredTypeDesc1>All animals that can normally eat corpses are predators</ZDG_PredTypeDesc1>
+	
+	<ZDG_PredType2>More Dangerous</ZDG_PredType2>
+	<ZDG_PredTypeDesc2>Animals with high combat power are predators.</ZDG_PredTypeDesc2>
+	
+	<ZDG_PredType3>Everything</ZDG_PredType3>
+	<ZDG_PredTypeDesc3>Every animal is a predator.</ZDG_PredTypeDesc3>
+	
+	<!-- <ZDG_Restart>** Restart for settings to take effect **</ZDG_Restart> -->
+	<ZDG_Restart>** Restart game to apply settings **</ZDG_Restart>
+	
+</LanguageData>
