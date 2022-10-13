@@ -21,12 +21,13 @@
 	<description>
 Your colonists will be prey! This mod makes the game harder.
 
-Settings include:
+Increase animal revenge chance, limit what predators can target to increase colonist deaths, and make *every* animal a predator! Fully configurable.
 
+Settings include:
 Increase revenge chance.
 
 Change what predators hunt:
-Vanilla: it's vanilla
+Vanilla: predators hunt their normal play
 Predators are not prey: Predators won't hunt other predators
 Humans are hunted: Wild predators only hunt humans. Tame predators don't hunt other predators.
 Colonists only: All predators, including pets, will only hunt colonists
